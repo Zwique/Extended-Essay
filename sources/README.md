@@ -5,8 +5,8 @@ This folder contains supplementary materials used for the Extended Essay researc
 ## Contents
 
 - `WORKS_CITED.md` — List of all references and sources consulted.
-- `RSA.py` — Python script related to RSA key generation or encryption.
-- `find_bits.py` — Script for analyzing or working with bit operations.
+- `RSA.py` — Python script that simulates algorithm of RSA key generation and encryption/decryption.
+- `find_bits.py` — Script for finding number of bits.
 - `mod_inverse.py` — Script to compute modular inverses.
 - `Graph1.png`, `Graph2.png`, `Graph3.png`, `Graph4.png` — Visualizations and experimental result graphs.
 
