@@ -29,7 +29,7 @@ The RSA algorithm is one of the most widely used public-key cryptosystems, provi
 
 ## 📂 Contents
 
-- [`Extended_Essay.pdf`](./Extended_Essay.pdf) – Final paper  
+- [`Extended_Essay.pdf`](./Extended%20Essay.pdf) – Final paper  
 - [`sources/`](./sources) – Research sources and references  
 - [`notes/`](./notes) – Additional notes and drafts
 
