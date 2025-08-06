@@ -37,8 +37,7 @@ The RSA algorithm is one of the most widely used public-key cryptosystems, provi
 ## 🎯 Key Findings
 
 - RSA security relies on integer factorization complexity, which becomes more vulnerable as computational power increases.
-- Key sizes below 2048 bits are considered insecure; 4096-bit keys offer stronger security but introduce performance overhead.
-- Post-quantum algorithms, such as lattice-based cryptography, present a viable alternative for future-proof security.
+- Key sizes below 2048 bits are considered insecure; 4096-bit keys offer stronger security but introduce performance and time complexity overhead.
 
 ---
 
