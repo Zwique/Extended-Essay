@@ -1,3 +1,5 @@
+###---Find the number of bits---###
+
 import math
 
 # --- Find the number of bits ---
